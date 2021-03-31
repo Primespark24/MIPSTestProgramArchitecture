@@ -8,9 +8,33 @@ You will collaboarate in developing a test algorithm for MIPS. You will present 
 ### Grade Break Down
 | Part                               |   | Points  |
 |------------------------------------|---|---------|
-| MIPS_2-4 a - Group Algorithm       |   | 30 pts  |   
-| MIPS_2-4 b - Mini Presentation     |   | 20 pts  |    
-| Total                              |   | 50 pts  |
+| MIPS_2-4 a - Group Algorithm       | | 30 pts  |   
+| MIPS_2-4 b - Mini Presentation     | 20 | 20 pts  |    
+| Total                              | | 50 pts  |
+
+### Feedback
+| MIPS_2-4 a - Group Algorithm       |   | Points  |
+|------------------------------------|---|---------|
+| Algorithm that works               | 8 | 10 pts  |
+| Interesting Algorithm/Fun/Original | 9 | 10 pts  |
+| Individual Participation           | |  7 pts  |
+| Comments/Neat Code                 | 3 |  3 pts  | 
+| Total                              | | 30 pts  |
+
+| MIPS_2-4 b - Presentation          |   | Points  |
+|------------------------------------|---|---------|
+| MIPS instructions chosen and why   | 4 |  4 pts  |
+| Neat assembly listing              | 4 |  4 pts  |
+| Demonstration works                | 4 |  4 pts  |
+| Efficiency Analysis                | 4 |  4 pts  | 
+| Reflections: Likes/Disliked/etc.   | 4 |  4 pts  |
+| Total                              |20 | 20 pts  |
+
+### Feedback Comments
+* Good work
+* It seems that scheduling challenges and lack of time working together contributed to issues in getting the code working all the way. 
+* Also better more detailed communication on where challenges are being faced would be good. The best way to do this is to work together and seek help if stuck.
+
 
 
 # 2-4 a: Group Algorithm
